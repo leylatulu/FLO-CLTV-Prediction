@@ -1,7 +1,7 @@
 # FLO-CLTV-Prediction
+Roadmap for FLO sales and marketing activities wants to determine. 
 
-
-... will be added ...
+In order for the company to make a medium-long-term plan, it is necessary to estimate the potential value that existing customers will provide to the company in the future.
 
 ## Data Set Story
 The dataset consists of the information obtained from the past shopping behaviors of customers who made their last purchases from Flo as OmniChannel (both online and offline shoppers) in the years 2020-2021.
